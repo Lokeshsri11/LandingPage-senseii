@@ -115,7 +115,7 @@ code,
 kbd,
 pre,
 samp {
-    font-family: monospace;
+    font-family: "Poppins", serif;
     font-size: 1em
 }
 
@@ -261,7 +261,7 @@ body {
     background-color: #fff;
     min-height: 100%;
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 20px
 }
@@ -1069,7 +1069,7 @@ textarea.w-select {
 .w-widget-twitter-count-shim .w-widget-twitter-count-inner {
     text-align: center;
     color: #999;
-    font-family: serif;
+    font-family: "Poppins", serif;
     font-size: 15px;
     line-height: 12px;
     position: relative
@@ -1464,7 +1464,7 @@ textarea.w-select {
     -webkit-tap-highlight-color: transparent;
     background: #000000e6;
     outline: 0;
-    font-family: Helvetica Neue, Helvetica, Ubuntu, Segoe UI, Verdana, sans-serif;
+   font-family: "Poppins", serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 300;
@@ -2219,7 +2219,7 @@ textarea.w-select {
 
 body {
     color: #0b0b0b;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     line-height: 1.5
 }
@@ -2237,7 +2237,7 @@ h2 {
     color: #0b0b0b;
     margin-top: 0;
     margin-bottom: 0;
-    font-family: Plus Jakarta Sans;
+   font-family: "Poppins", serif;
     font-size: 2.25rem;
     font-weight: 700;
     line-height: 1.5
@@ -2429,7 +2429,7 @@ figcaption {
 
 .text-align-left {
     text-align: left;
-    font-family: Plusjakartasans, sans-serif
+    font-family: Plus Jakarta Sans;
 }
 
 .form_input {
@@ -2453,7 +2453,7 @@ figcaption {
 }
 
 .heading-style-h2.text-color-white.text-align-center {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     display: block
 }
 
@@ -2499,7 +2499,7 @@ figcaption {
 
 .heading-style-h2.f-vid {
     color: var(--color--white);
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     line-height: 4.2rem
 }
 
@@ -2520,7 +2520,7 @@ figcaption {
 }
 
 .text-style-allcaps.text-align-center {
-    font-family: Intercustom, sans-serif
+    font-family: Plus Jakarta Sans;
 }
 
 .text-style-allcaps.text-align-center.game-f {
@@ -2528,12 +2528,12 @@ figcaption {
 }
 
 .text-style-allcaps.soc-sub-head {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-weight: 400
 }
 
 .text-style-allcaps.hn-text {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 400
 }
 
@@ -2543,7 +2543,7 @@ figcaption {
 
 .text-style-allcaps.game-f,
 .text-style-allcaps.com {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 400
 }
 
@@ -2554,7 +2554,7 @@ figcaption {
 
 .text-align-center {
     text-align: center;
-    font-family: Plusjakartasans, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .text-align-center.pricing {
@@ -2562,7 +2562,7 @@ figcaption {
 }
 
 .text-align-center.hn-sdk-h {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     line-height: 4rem
 }
@@ -2701,7 +2701,7 @@ figcaption {
 }
 
 .special_display-text-large {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 2.625rem;
     font-weight: 600;
     line-height: 1.3
@@ -2748,7 +2748,7 @@ figcaption {
 .add-on-card-price-text {
     color: #0b0b0b;
     flex: none;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.75rem;
     font-weight: 600
 }
@@ -2795,7 +2795,7 @@ figcaption {
     flex-direction: column;
     justify-content: space-between;
     align-items: stretch;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     display: flex
 }
 
@@ -3208,12 +3208,12 @@ figcaption {
 }
 
 .client.text-weight-bold.showcase {
-    font-family: Inter
+    font-family: "Poppins", serif;
 }
 
 .client.text-weight-medium.showcase {
     color: #474747;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: .75rem;
     font-weight: 400;
     line-height: 16px
@@ -3224,14 +3224,14 @@ figcaption {
 }
 
 .client.soc-c-h {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.125rem;
     font-weight: 700;
     line-height: 1.519rem
 }
 
 .client.soc-c-p {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     line-height: 1.181rem
 }
@@ -3248,51 +3248,51 @@ figcaption {
 }
 
 .client.hn-ts-cnd {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     line-height: 1.475rem
 }
 
 .client.hn-ts-cnd.new-testi {
     color: #474747;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 18px;
     line-height: 20px
 }
 
 .client.game-f {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 700
 }
 
 .client.android {
     color: #474747;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 18px
 }
 
 .client.ios {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 700
 }
 
 .client.android-f {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 700
 }
 
 .client.f-vid {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 700
 }
 
 .client.f-vid2 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px
 }
 
@@ -3309,14 +3309,14 @@ figcaption {
 }
 
 .client.blogs-1 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 700
 }
 
 .client.blogs-2 {
     color: #474747;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 12px;
     line-height: 16px
 }
@@ -3569,13 +3569,13 @@ figcaption {
     flex: none;
     margin-top: .5rem;
     margin-bottom: 2rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.125rem
 }
 
 .banner-cta-description.pricing {
     max-width: 28rem;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .banner-cta-description.social-w {
@@ -3791,7 +3791,7 @@ figcaption {
     color: #474747;
     width: 100%;
     padding-right: 2.5rem;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .faq-answer-text a {
@@ -4183,7 +4183,7 @@ figcaption {
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.125rem
 }
 
@@ -4202,12 +4202,12 @@ figcaption {
 
 .section-subhead.hn-sdk-p {
     max-width: 650px;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .section-subhead.hn-sdk-p.products {
     max-width: 590px;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .section-subhead.game-s {
@@ -4259,7 +4259,7 @@ figcaption {
     color: #777;
     width: 100%;
     margin-top: 4px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 400;
     line-height: 1.5
@@ -4309,12 +4309,12 @@ figcaption {
     text-align: center;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .black_section_all-caps.v2 {
     color: #474747;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .black_section_all-caps.rtc {
@@ -4363,14 +4363,14 @@ figcaption {
     color: #999;
     margin-top: 2px;
     padding-left: 2rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 500
 }
 
 .dev_link_description.hn-desc {
     padding-left: 0;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .user_experience_section {
@@ -4406,7 +4406,7 @@ figcaption {
 
 .ue_card_desc {
     color: #999;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem
 }
 
@@ -4523,7 +4523,7 @@ figcaption {
 .big_card_head {
     color: #0b0b0b;
     margin-bottom: .125rem;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 700
 }
@@ -4558,7 +4558,7 @@ figcaption {
     color: #999;
     text-align: left;
     margin-bottom: 0;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem
 }
 
@@ -4572,14 +4572,14 @@ figcaption {
 
 .big_card_description._319px_width {
     max-width: 319px;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .big_card_description.section-head-description {
     text-align: center;
     max-width: 608px;
     margin-top: 1rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 300
 }
 
@@ -4955,7 +4955,7 @@ figcaption {
 .hero_heading_xxl {
     text-align: center;
     margin-bottom: 1rem;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 1.2
@@ -5062,7 +5062,7 @@ figcaption {
     z-index: 2;
     color: #999;
     max-width: 100%;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     line-height: 1.3rem;
     position: relative
@@ -5085,7 +5085,7 @@ figcaption {
 .dev_section_heading {
     color: #fff;
     text-align: center;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 2.25rem;
     font-weight: 600;
     line-height: 1.5
@@ -5099,7 +5099,7 @@ figcaption {
 
 .dev_section_heading.hn-title-b {
     color: #0b0b0b;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     font-weight: 700;
     line-height: 3.375rem
@@ -5241,7 +5241,7 @@ figcaption {
 .testimonial-description-small {
     color: #999;
     margin-bottom: 2rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 500
 }
@@ -5329,7 +5329,7 @@ figcaption {
     color: #262626;
     text-transform: uppercase;
     margin-bottom: .25rem;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 600;
     line-height: 22px
@@ -5341,7 +5341,7 @@ figcaption {
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 0;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 400;
     line-height: 22px;
     text-decoration: none
@@ -5388,7 +5388,7 @@ figcaption {
     max-width: 31.9375rem;
     margin-left: auto;
     margin-right: auto;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem
 }
 
@@ -5403,7 +5403,7 @@ figcaption {
 
 .hero_subhead.home-new-w {
     max-width: 46.375rem;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .hero_subhead.vonage {
@@ -5411,7 +5411,7 @@ figcaption {
 }
 
 .hero_subhead.h3 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 400;
     line-height: 1.5
 }
@@ -5541,7 +5541,7 @@ figcaption {
     background-color: #fff;
     border-radius: 20px;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: flex-start;
     padding: 0;
     text-decoration: none;
@@ -5605,7 +5605,7 @@ figcaption {
 
 .sdk_features_card_desc {
     color: #999;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1rem
 }
 
@@ -6024,7 +6024,7 @@ figcaption {
     align-items: center;
     height: 48px;
     padding: 1rem;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.125rem;
     display: flex;
     position: relative
@@ -6064,7 +6064,7 @@ figcaption {
     align-items: center;
     max-height: 32px;
     padding: 12px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     font-weight: 500;
     text-decoration: none;
@@ -6120,7 +6120,7 @@ figcaption {
 .thanks_card_description {
     color: #fffc;
     margin-top: 16px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 400
 }
@@ -6131,7 +6131,7 @@ figcaption {
     border-radius: 8px;
     margin-top: 1rem;
     padding: 1rem 1.5rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     font-weight: 700
 }
@@ -6143,7 +6143,7 @@ figcaption {
 
 .book_call_heading {
     color: #fff;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 2rem;
     font-weight: 700;
     line-height: 1.25
@@ -6225,7 +6225,7 @@ figcaption {
     border: 1px #ddd;
     border-radius: 24px;
     margin-bottom: 4rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     position: relative
 }
 
@@ -6577,7 +6577,7 @@ figcaption {
 
 .cta-subtext {
     color: #999;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     font-weight: 300
 }
@@ -6795,7 +6795,7 @@ figcaption {
 .banner_cta {
     color: #999;
     margin-bottom: 2rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.125rem
 }
 
@@ -6818,7 +6818,7 @@ figcaption {
 }
 
 .cross_platform_banner_head {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 2rem;
     font-weight: 700
 }
@@ -6835,21 +6835,21 @@ figcaption {
 ._w-500 {
     color: #474747;
     max-width: 500px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 20px
 }
 
 ._w-500.soc-p {
     color: #474747;
     max-width: 518px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.875rem
 }
 
 ._w-500.game-p {
     color: #474747;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.25rem
 }
 
@@ -6877,7 +6877,7 @@ figcaption {
     max-width: 33rem;
     margin-left: auto;
     margin-right: auto;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 500
 }
@@ -6919,7 +6919,7 @@ figcaption {
     grid-row-gap: 2rem;
     color: #474747;
     flex-direction: column;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 300;
     display: flex
 }
@@ -6941,7 +6941,7 @@ figcaption {
 
 .comparision-overview h3 {
     color: #0b0b0b;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.75rem
 }
 
@@ -6960,7 +6960,7 @@ figcaption {
     grid-auto-columns: 1fr;
     width: 100%;
     padding: 1.5rem 2rem;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     display: flex
 }
 
@@ -7116,7 +7116,7 @@ figcaption {
 
 .number-bold {
     color: #474747;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 600
 }
@@ -7192,14 +7192,14 @@ figcaption {
 .card-description {
     color: #999;
     margin-top: .5rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 300
 }
 
 .card-description._405px_width {
     max-width: 405px;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .explore-grid {
@@ -7268,7 +7268,7 @@ figcaption {
     align-self: flex-start;
     margin-top: 2rem;
     padding: 16px 24px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 700
 }
 
@@ -7401,12 +7401,12 @@ figcaption {
 
 .h-1-75 {
     color: #fff;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.75rem
 }
 
 .p-18px {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.125rem
 }
 
@@ -7415,7 +7415,7 @@ figcaption {
 }
 
 .paragraph-10 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem
 }
 
@@ -7814,7 +7814,7 @@ figcaption {
 
 .table-title {
     color: #0b0b0b;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.125rem;
     font-weight: 700
 }
@@ -7854,7 +7854,7 @@ figcaption {
     align-items: flex-start;
     width: 415px;
     margin-left: 3rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     display: flex
 }
 
@@ -8088,7 +8088,7 @@ figcaption {
     color: #474747;
     flex-direction: column;
     align-items: flex-start;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.125rem;
     display: flex
 }
@@ -8127,7 +8127,7 @@ figcaption {
 
 .p-med {
     color: #999;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.125rem
 }
 
@@ -8187,7 +8187,7 @@ figcaption {
     background-color: #ffffff2e;
     border-radius: 100px;
     padding: 8px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 14px;
     font-weight: 500;
     line-height: 1
@@ -8445,7 +8445,7 @@ figcaption {
 
 .link {
     color: #0b0b0bcc;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     line-height: 1.5;
     text-decoration: none;
@@ -8459,7 +8459,7 @@ figcaption {
 .text-block-10 {
     margin-bottom: 10px;
     margin-left: -20px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     font-weight: 500
 }
@@ -8491,7 +8491,7 @@ figcaption {
 
 .paragraph-17 {
     color: #b8b8b8;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 300
 }
@@ -8903,7 +8903,7 @@ figcaption {
 
 .text-block-21 {
     color: #262626;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .product-content {
@@ -8929,14 +8929,14 @@ figcaption {
 
 .text-block-22 {
     color: #191919;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     font-weight: 600;
     line-height: 62px
 }
 
 .text-block-23 {
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .index-content {
@@ -8964,19 +8964,19 @@ figcaption {
     grid-column-gap: 16px;
     grid-row-gap: 16px;
     align-items: center;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     display: flex
 }
 
 .price-number {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 2rem;
     font-weight: 600;
     line-height: 2.6rem
 }
 
 .price-period {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .87rem;
     line-height: 1rem
 }
@@ -9068,7 +9068,7 @@ figcaption {
 .text-block-26 {
     color: #999;
     text-align: center;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem
 }
 
@@ -9093,7 +9093,7 @@ figcaption {
     color: #474747;
     text-align: center;
     letter-spacing: .25rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     line-height: 1.5rem
 }
 
@@ -9108,7 +9108,7 @@ figcaption {
 .paragraph-20 {
     text-align: center;
     width: 32.375rem;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.875rem
 }
@@ -9220,7 +9220,7 @@ figcaption {
     text-align: left;
     align-self: auto;
     margin-bottom: 2px;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 700;
     line-height: 2rem
@@ -9229,7 +9229,7 @@ figcaption {
 .paragraph-22 {
     color: #999;
     text-align: left;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     line-height: 1.25rem
 }
@@ -9298,7 +9298,7 @@ figcaption {
 
 .text-block-28 {
     color: #474747;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 400;
     line-height: 21px
@@ -9418,7 +9418,7 @@ figcaption {
     align-items: center;
     width: 100%;
     padding: 6px 32px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     text-decoration: none;
     display: flex
 }
@@ -9433,7 +9433,7 @@ figcaption {
 
 .text-block-32 {
     color: var(--color--white);
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 18px;
     font-weight: 600;
     line-height: 27px;
@@ -9467,7 +9467,7 @@ figcaption {
 
 .clock-number {
     color: var(--color--white);
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 18px;
     font-weight: 600;
     line-height: 20px
@@ -9475,7 +9475,7 @@ figcaption {
 
 .clock-label {
     color: var(--color--white);
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 20px
@@ -9484,7 +9484,7 @@ figcaption {
 .text-block-33 {
     color: var(--color--white);
     margin-left: 4px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 18px;
     line-height: 20px
 }
@@ -9554,7 +9554,7 @@ figcaption {
     color: #0b0b0b;
     align-self: center;
     margin-left: 0;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     line-height: 1.313rem;
     text-decoration: none
@@ -9615,7 +9615,7 @@ figcaption {
 .checkbox-label-4 {
     color: #0b0b0b;
     margin-left: 5px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     line-height: 1.313rem
 }
@@ -9685,7 +9685,7 @@ figcaption {
 }
 
 .text-block-36 {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 600;
     line-height: 24px
@@ -9733,7 +9733,7 @@ figcaption {
     margin-bottom: 48px;
     padding-top: 113px;
     padding-bottom: 113px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.75rem;
     display: flex
@@ -9838,7 +9838,7 @@ figcaption {
 
 .hn-dfs-text {
     color: #191919;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 600
 }
@@ -9861,7 +9861,7 @@ figcaption {
     text-align: center;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 500
 }
 
@@ -9900,7 +9900,7 @@ figcaption {
 
 .hn-safe-text {
     color: #f5f5f7;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .div-block-141 {
@@ -9926,7 +9926,7 @@ figcaption {
 .hn-safe-desc {
     color: #ffffffb3;
     width: 480px;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .hn-s-g-c1.in--home {
@@ -9978,7 +9978,7 @@ figcaption {
     color: #fffc;
     max-width: 273px;
     margin-top: 8px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     line-height: 1.313rem
 }
@@ -9986,7 +9986,7 @@ figcaption {
 .text-block-44 {
     color: var(--color--white);
     letter-spacing: 2px;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-weight: 700
 }
 
@@ -10126,7 +10126,7 @@ figcaption {
     grid-column-gap: 4px;
     grid-row-gap: 4px;
     align-items: center;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     display: flex
 }
 
@@ -10209,7 +10209,7 @@ figcaption {
 .explore-para {
     color: #999;
     margin-bottom: 2rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem
 }
 
@@ -10448,7 +10448,7 @@ figcaption {
 
 .pricing-ingestion {
     text-align: center;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     position: absolute;
     inset: auto 0% -33px
 }
@@ -10557,7 +10557,7 @@ figcaption {
 
 .text-block-51 {
     color: #b04b4c;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 12px;
     line-height: 17px
 }
@@ -10593,7 +10593,7 @@ figcaption {
 .cost-compare-para {
     color: #999;
     text-align: center;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 300
 }
 
@@ -10635,7 +10635,7 @@ figcaption {
     grid-row-gap: 4px;
     color: #b8b8b8;
     align-items: center;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 400;
     display: flex
 }
@@ -10875,7 +10875,7 @@ figcaption {
 }
 
 .field-label {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 1.2
 }
@@ -11010,14 +11010,14 @@ figcaption {
 }
 
 .sdk_features_card_desc {
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .custom-heading-h2 {
     color: #474747;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1rem;
     font-weight: 400
 }
@@ -11029,7 +11029,7 @@ figcaption {
 
 .custom-heading-h2.hero {
     text-align: center;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .custom-heading-h2.rtc {
@@ -11050,7 +11050,7 @@ figcaption {
 .card-description-h2 {
     color: #999;
     max-width: 415px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: .875rem;
     font-weight: 400
 }
@@ -11060,7 +11060,7 @@ figcaption {
 }
 
 .faq-heading-h3 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 600;
     line-height: 1.5
@@ -11239,7 +11239,7 @@ figcaption {
     color: #474747;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .flutter-s-text._2 {
@@ -11247,14 +11247,14 @@ figcaption {
 }
 
 .flutter-h2-b {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     line-height: 4.5rem
 }
 
 .flutter-h2-w {
     color: var(--color--white);
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     line-height: 4.5rem
 }
@@ -11274,7 +11274,7 @@ figcaption {
 }
 
 .flutter-para {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.87rem
 }
@@ -11337,7 +11337,7 @@ figcaption {
 
 .flutter-h3-b {
     text-align: center;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     line-height: 150%
 }
 
@@ -11398,7 +11398,7 @@ figcaption {
 
 .why-card-text {
     text-align: center;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 700;
     line-height: 1.87rem
@@ -11407,7 +11407,7 @@ figcaption {
 .why-card-para {
     color: #999;
     text-align: center;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 21px
 }
@@ -11522,14 +11522,14 @@ figcaption {
 }
 
 .f-client-name {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 700
 }
 
 .f-client-desc {
     color: #474747;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 14px
 }
 
@@ -11554,7 +11554,7 @@ figcaption {
 .flutter-h2-w2 {
     color: var(--color--white);
     max-width: 100%;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 2.62rem
 }
 
@@ -11564,7 +11564,7 @@ figcaption {
 
 .flutter-para3 {
     color: #ffffffb3;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .fast-left-block {
@@ -11754,7 +11754,7 @@ figcaption {
 }
 
 .rtc-heading-h2 {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem
 }
 
@@ -11771,7 +11771,7 @@ figcaption {
     grid-row-gap: 1rem;
     color: #474747;
     flex-direction: column;
-    font-family: Inter;
+    font-family: "Poppins", serif;
     display: flex
 }
 
@@ -11791,7 +11791,7 @@ figcaption {
 }
 
 .rtc-para {
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .rtc-vs-block2 {
@@ -11818,7 +11818,7 @@ figcaption {
 }
 
 .block3-text2 {
-    font-family: Inter;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     font-weight: 600
 }
@@ -11843,7 +11843,7 @@ figcaption {
 
 .block3-para {
     color: #474747;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .block3-img-wrap._2 {
@@ -11852,7 +11852,7 @@ figcaption {
 
 .comm-para {
     color: #474747;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.87rem
 }
@@ -11891,7 +11891,7 @@ figcaption {
 
 .learn-para {
     color: #999;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 21px
 }
@@ -11993,7 +11993,7 @@ figcaption {
 
 .events-para {
     color: #999;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 21px
 }
@@ -12097,7 +12097,7 @@ figcaption {
 
 .programs-text1 {
     color: var(--color--white);
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .prog-free-block {
@@ -12147,7 +12147,7 @@ figcaption {
 
 .programs-para {
     color: #ffffffa3;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 21px
 }
@@ -12640,7 +12640,7 @@ figcaption {
 .paragraph-26 {
     color: #999;
     text-align: left;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px
 }
 
@@ -12760,7 +12760,7 @@ figcaption {
     text-align: center;
     max-width: 33.25rem;
     margin-top: 1rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     font-weight: 400;
     line-height: 1.87rem
@@ -12836,7 +12836,7 @@ figcaption {
 
 .case-why-text2 {
     color: #b8b8b8;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.87rem
 }
@@ -12902,7 +12902,7 @@ figcaption {
 }
 
 .case-h2-heading {
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     line-height: 3.37rem
 }
@@ -12910,7 +12910,7 @@ figcaption {
 .case-para1 {
     color: #474747;
     text-align: center;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     line-height: 1.75rem
 }
@@ -12919,7 +12919,7 @@ figcaption {
     color: #999;
     text-align: left;
     max-width: 22.25rem;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .case-para1-wrap {
@@ -13225,14 +13225,14 @@ figcaption {
 .blogs-main-heading {
     color: #f5f5f7;
     margin-bottom: 1rem;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     line-height: 3.6rem
 }
 
 .blogs-para1 {
     color: #b8b8b8;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.87rem
 }
@@ -13240,7 +13240,7 @@ figcaption {
 .featured-text {
     color: #999;
     letter-spacing: 2px;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .blogs-featured-block {
@@ -13267,7 +13267,7 @@ figcaption {
 
 .blogs-text2 {
     color: #f5f5f7;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem;
     line-height: 1.87rem
 }
@@ -13289,7 +13289,7 @@ figcaption {
 }
 
 .blogs-text1 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     font-weight: 600;
     line-height: 3.37rem
@@ -13332,7 +13332,7 @@ figcaption {
 .blogs-company-text {
     color: #474747;
     letter-spacing: 1px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 24px
@@ -13340,7 +13340,7 @@ figcaption {
 
 .blogs-company-text2 {
     color: #555;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     line-height: 21px
 }
@@ -13382,7 +13382,7 @@ figcaption {
     color: #474747;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     line-height: 1.87rem
 }
@@ -13401,7 +13401,7 @@ figcaption {
     margin-top: 1rem;
     margin-bottom: 1rem;
     padding-left: 1rem;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.5rem;
     font-style: italic;
     font-weight: 600;
@@ -13423,14 +13423,14 @@ figcaption {
 .blogs-h2-heading {
     color: #000;
     margin-bottom: 1rem;
-    font-family: Plusjakartasans, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 2rem;
     line-height: 4.12rem
 }
 
 .blogs-result-para {
     color: #474747;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem;
     line-height: 1.87rem
 }
@@ -13443,7 +13443,7 @@ figcaption {
 .blogs-text-large {
     color: #474747;
     margin-bottom: 4px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 3rem;
     font-weight: 700;
     line-height: 3.37rem
@@ -13480,7 +13480,7 @@ figcaption {
     color: #666;
     letter-spacing: 1px;
     text-transform: none;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 12px;
     line-height: 24px
 }
@@ -13513,7 +13513,7 @@ figcaption {
 }
 
 .usecases-para {
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .paragraph-27,
@@ -13548,7 +13548,7 @@ figcaption {
     text-transform: uppercase;
     background-color: #f47ab6e6;
     border-radius: 8px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-weight: 500
 }
 
@@ -13559,14 +13559,14 @@ figcaption {
 .field-label2 {
     color: #344054;
     margin-bottom: 6px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px
 }
 
 .text-field2 {
     border-radius: 8px;
     margin-bottom: 0;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .text-field2:focus {
@@ -13577,7 +13577,7 @@ figcaption {
     background-color: #f3f3f300;
     border-radius: 8px;
     margin-bottom: 0;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .select-field-3:focus {
@@ -13613,7 +13613,7 @@ figcaption {
     letter-spacing: .5px;
     text-transform: uppercase;
     margin-left: 4px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     font-weight: 600
 }
@@ -13657,7 +13657,7 @@ figcaption {
     flex: none;
     margin-left: auto;
     margin-right: auto;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.25rem
 }
 
@@ -13725,7 +13725,7 @@ figcaption {
     color: #474747;
     letter-spacing: 2px;
     text-transform: uppercase;
-    font-family: Intercustom, sans-serif
+    font-family: "Poppins", serif;
 }
 
 .vf-text-small.is-grey {
@@ -13742,7 +13742,7 @@ figcaption {
 
 .vf-para {
     color: #999;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 1.12rem
 }
 
@@ -16456,7 +16456,7 @@ figcaption {
 
 .testimonial_person {
     color: var(--color--white);
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 16px;
     font-weight: 700
 }
@@ -16467,7 +16467,7 @@ figcaption {
 
 .testimonial_person-designation {
     color: var(--color--white);
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     font-weight: 400
 }
@@ -16495,7 +16495,7 @@ figcaption {
 
 .test_txt {
     margin-bottom: 24px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 18px;
     font-weight: 400
 }
@@ -16547,7 +16547,7 @@ figcaption {
     color: #555;
     width: 479px;
     margin-top: 16px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 18px;
     font-weight: 400
 }
@@ -16577,7 +16577,7 @@ figcaption {
 }
 
 .text-block-62 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 20px
 }
 
@@ -16758,7 +16758,7 @@ figcaption {
 }
 
 .client_name {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 18px;
     font-weight: 500
 }
@@ -16820,7 +16820,7 @@ figcaption {
 }
 
 .client_desig {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px
 }
 
@@ -18053,7 +18053,7 @@ figcaption {
 .text-block-65 {
     text-transform: uppercase;
     margin-left: 4px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 20px;
     font-weight: 600
 }
@@ -18113,7 +18113,7 @@ figcaption {
 }
 
 .text-block-66 {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 18px;
     font-weight: 600
 }
@@ -18208,7 +18208,7 @@ figcaption {
     border-radius: 8px;
     height: 48px;
     margin-bottom: 0;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 16px;
     font-weight: 400
 }
@@ -18993,7 +18993,7 @@ figcaption {
     background-color: #fff;
     border: .5px solid #ddd;
     padding: 24px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 16px
 }
 
@@ -19077,7 +19077,7 @@ figcaption {
     background-color: #fff;
     border: .5px solid #ddd;
     padding: 24px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 16px
 }
 
@@ -19345,7 +19345,7 @@ figcaption {
 .err_txt {
     color: #ff4f4f;
     padding-left: 4px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 12px;
     display: none
 }
@@ -19358,12 +19358,12 @@ figcaption {
     margin-top: 2px;
     margin-bottom: 0;
     padding: 8px 12px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 16px
 }
 
 .form-field::placeholder {
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 16px
 }
 
@@ -19381,7 +19381,7 @@ figcaption {
     color: #344054;
     margin-bottom: 0;
     padding-left: 4px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 14px;
     font-weight: 400
 }
@@ -19393,7 +19393,7 @@ figcaption {
     border-radius: 8px;
     margin-top: 16px;
     padding: 8px 12px;
-    font-family: Intercustom, sans-serif;
+    font-family: "Poppins", serif;
     font-size: 16px
 }
 
@@ -19444,8 +19444,8 @@ figcaption {
 .hello-bar {
     background-color: #212329;
     background-image: linear-gradient(#0003, #0003);
-    padding-top: 12px;
-    padding-bottom: 12px
+    padding-top: 5px;
+    padding-bottom: 5px
 }
 
 .hello-bar.u-hflex-center-center {
@@ -23629,7 +23629,7 @@ html.w-mod-js [data-ix=new-interaction] {
         grid-row-gap: 10px;
         color: #000;
         width: 100%;
-        font-family: Intercustom, sans-serif;
+        font-family: "Poppins", serif;
         font-size: 1rem;
         font-weight: 700;
         display: flex
@@ -23647,7 +23647,7 @@ html.w-mod-js [data-ix=new-interaction] {
         justify-content: center;
         align-items: center;
         padding: 1rem;
-        font-family: Intercustom, sans-serif;
+        font-family: "Poppins", serif;
         font-size: .9rem;
         font-weight: 600;
         display: flex
@@ -23975,7 +23975,7 @@ html.w-mod-js [data-ix=new-interaction] {
         justify-content: center;
         align-items: center;
         padding: 1rem;
-        font-family: Inter;
+        font-family: "Poppins", serif;
         font-weight: 600;
         display: flex
     }
@@ -26543,7 +26543,7 @@ html.w-mod-js [data-ix=new-interaction] {
 }
 
 @font-face {
-    font-family: 'Plusjakartasans';
+    font-family: "Poppins", serif;
     src: url('/style/65aa552a045c8e077aa38cc2_PlusJakartaSans-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
@@ -26551,7 +26551,7 @@ html.w-mod-js [data-ix=new-interaction] {
 }
 
 @font-face {
-    font-family: 'Intercustom';
+    font-family: "Poppins", serif;
     src: url('/style/658e9a4b435c5e9025db2343_Inter-SemiBold.woff2') format('woff2');
     font-weight: 600;
     font-style: normal;
@@ -26559,7 +26559,7 @@ html.w-mod-js [data-ix=new-interaction] {
 }
 
 @font-face {
-    font-family: 'Intercustom';
+    font-family: "Poppins", serif;
     src: url('/style/65aa5b78a45adb1c0c216ea9_Inter-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
@@ -26567,7 +26567,7 @@ html.w-mod-js [data-ix=new-interaction] {
 }
 
 @font-face {
-    font-family: 'Intercustom';
+    font-family: "Poppins", serif;
     src: url('/style/658a6c269c1ad56db20ca42c_Inter-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
@@ -26575,7 +26575,7 @@ html.w-mod-js [data-ix=new-interaction] {
 }
 
 @font-face {
-    font-family: 'Plusjakartasans';
+    font-family: "Poppins", serif;
     src: url('/style/65aa510694e95b0f558093e7_PlusJakartaSans-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
@@ -26583,7 +26583,7 @@ html.w-mod-js [data-ix=new-interaction] {
 }
 
 @font-face {
-    font-family: 'Intercustom';
+    font-family: "Poppins", serif;
     src: url('/style/658a82017af2b68a1965131b_Inter-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
