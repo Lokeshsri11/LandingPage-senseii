@@ -5998,7 +5998,7 @@ figcaption {
 }
 
 .hero_video {
-    border: 1px solid #ddd;
+    /* border: 1px solid #ddd; */
     border-radius: 28px;
     height: 679px;
     display: flex
@@ -10110,7 +10110,8 @@ figcaption {
 }
 
 .text-block-45 {
-    font-family: Plusjakartasans, sans-serif
+    font-family: poppins, sans-serif;
+    font-size: large
 }
 
 .footer-base {
@@ -23334,7 +23335,7 @@ html.w-mod-js [data-ix=new-interaction] {
         padding-left: 0
     }
     .hero_video {
-        min-height: 152px
+        /* min-height: 152px */
     }
     .hero_video_wrapper {
         margin-top: 2rem
